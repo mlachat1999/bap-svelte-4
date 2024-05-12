@@ -1,4 +1,5 @@
 <script lang="ts">
+
 </script>
 
 <main class="flex flex-row justify-center my-24 w-[100%]">

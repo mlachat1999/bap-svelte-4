@@ -1,0 +1,11 @@
+Svelte 4:
+- input text field with automatic update
+- onMount 
+
+Reactive STATEMENTS vs. ASSIGNMENTS
+
+Component composition
+- user profile
+- show username somewhere, adhv store
+
++ webapp Fetch Data, ook store maken met fetch. 
